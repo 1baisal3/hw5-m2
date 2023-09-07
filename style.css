@@ -91,13 +91,22 @@ button:hover{
 }
 .card-title{
     font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
 }
 .card-year{
     font-style: italic;
     margin-top: 5px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
 }
 .card-genre{
     font-size: 21px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yellowtail', cursive;
 }
 .dark{
     background-color: #000;
